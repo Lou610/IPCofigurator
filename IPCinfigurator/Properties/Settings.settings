@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IPCinfigurator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NewPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files (x86)\Wayfarer\LANCnnct\</Value>
+    </Setting>
+    <Setting Name="OldPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files (x86)\Wayfarer\LANCnnct\Clients\</Value>
+    </Setting>
+    <Setting Name="FileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CoDAFS Config.lcn</Value>
+    </Setting>
+    <Setting Name="GautengCoaches" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CoDAFS Config_GautengCoaches.lcn</Value>
+    </Setting>
+    <Setting Name="Ntambanana" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CoDAFS Config_Ntambanana.lcn</Value>
+    </Setting>
+    <Setting Name="Marblehall" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CoDAFS Config_Marblehall.lcn</Value>
+    </Setting>
+    <Setting Name="Mokopane" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CoDAFS Config_Mokopane.lcn</Value>
+    </Setting>
+    <Setting Name="UGU" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CoDAFS Config_UGU.lcn</Value>
+    </Setting>
+    <Setting Name="Duzi" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CoDAFS Config_DUZI.lcn</Value>
+    </Setting>
+    <Setting Name="DeletePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files (x86)\Wayfarer\LANCnnct\Devices</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

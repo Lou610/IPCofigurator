@@ -1,0 +1,28 @@
+c:\users\lourens\documents\visual studio 2013\Projects\IPCinfigurator\IPCinfigurator\bin\Debug\IPCinfigurator.exe.config
+c:\users\lourens\documents\visual studio 2013\Projects\IPCinfigurator\IPCinfigurator\bin\Debug\IPCinfigurator.exe
+c:\users\lourens\documents\visual studio 2013\Projects\IPCinfigurator\IPCinfigurator\bin\Debug\IPCinfigurator.pdb
+c:\users\lourens\documents\visual studio 2013\Projects\IPCinfigurator\IPCinfigurator\obj\Debug\IPCinfigurator.Form1.resources
+c:\users\lourens\documents\visual studio 2013\Projects\IPCinfigurator\IPCinfigurator\obj\Debug\IPCinfigurator.Properties.Resources.resources
+c:\users\lourens\documents\visual studio 2013\Projects\IPCinfigurator\IPCinfigurator\obj\Debug\IPCinfigurator.csproj.GenerateResource.Cache
+c:\users\lourens\documents\visual studio 2013\Projects\IPCinfigurator\IPCinfigurator\obj\Debug\IPCinfigurator.exe
+c:\users\lourens\documents\visual studio 2013\Projects\IPCinfigurator\IPCinfigurator\obj\Debug\IPCinfigurator.pdb
+D:\Dev\IPCinfigurator\IPCinfigurator\bin\Debug\IPCinfigurator.exe.config
+D:\Dev\IPCinfigurator\IPCinfigurator\obj\Debug\IPCinfigurator.exe
+D:\Dev\IPCinfigurator\IPCinfigurator\obj\Debug\IPCinfigurator.pdb
+E:\Dev\IPCinfigurator\IPCinfigurator\bin\Debug\IPCinfigurator.exe.config
+E:\Dev\IPCinfigurator\IPCinfigurator\obj\Debug\IPCinfigurator.exe
+E:\Dev\IPCinfigurator\IPCinfigurator\obj\Debug\IPCinfigurator.pdb
+E:\Dev\IPCinfigurator\IPCinfigurator\bin\Debug\IPCinfigurator.exe
+E:\Dev\IPCinfigurator\IPCinfigurator\bin\Debug\IPCinfigurator.pdb
+E:\Dev\IPCinfigurator\IPCinfigurator\obj\Debug\IPCinfigurator.csprojResolveAssemblyReference.cache
+E:\Dev\IPCinfigurator\IPCinfigurator\obj\Debug\IPCinfigurator.Form1.resources
+E:\Dev\IPCinfigurator\IPCinfigurator\obj\Debug\IPCinfigurator.Properties.Resources.resources
+E:\Dev\IPCinfigurator\IPCinfigurator\obj\Debug\IPCinfigurator.csproj.GenerateResource.Cache
+C:\Users\Lourens\Desktop\Development\IPCinfigurator\IPCinfigurator\bin\Debug\IPCinfigurator.exe.config
+C:\Users\Lourens\Desktop\Development\IPCinfigurator\IPCinfigurator\bin\Debug\IPCinfigurator.exe
+C:\Users\Lourens\Desktop\Development\IPCinfigurator\IPCinfigurator\bin\Debug\IPCinfigurator.pdb
+C:\Users\Lourens\Desktop\Development\IPCinfigurator\IPCinfigurator\obj\Debug\IPCinfigurator.Form1.resources
+C:\Users\Lourens\Desktop\Development\IPCinfigurator\IPCinfigurator\obj\Debug\IPCinfigurator.Properties.Resources.resources
+C:\Users\Lourens\Desktop\Development\IPCinfigurator\IPCinfigurator\obj\Debug\IPCinfigurator.csproj.GenerateResource.Cache
+C:\Users\Lourens\Desktop\Development\IPCinfigurator\IPCinfigurator\obj\Debug\IPCinfigurator.exe
+C:\Users\Lourens\Desktop\Development\IPCinfigurator\IPCinfigurator\obj\Debug\IPCinfigurator.pdb
